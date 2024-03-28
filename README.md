@@ -1,2 +1,4 @@
 # bookbot
-boot.dev learning repo
+Boot.dev learning
+BookBot is my first git project!
+
